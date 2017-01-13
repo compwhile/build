@@ -1,3 +1,5 @@
+![alt text](https://github.com/compwhile/compwhile/raw/master/logo.png "compwhile")
+
 # Build compwhile
 
 This repository contains the infrastructure used for continuous integration (CI) and releases of compwhile.
